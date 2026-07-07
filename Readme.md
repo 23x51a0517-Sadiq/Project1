@@ -1,26 +1,56 @@
-# Analytics GPT
 
-Analytics GPT is an AI-powered application that allows users to upload documents and ask questions about them using Retrieval-Augmented Generation (RAG).
+# Analytics GPT AI Assistance
+
+An AI-powered document assistant that enables users to upload PDF documents and ask natural language questions using Retrieval-Augmented Generation (RAG).
 
 ## Features
 
 - Upload PDF documents
-- AI-powered question answering
-- Chat with your documents
-- Simple web interface
+- AI-powered Question Answering
+- Retrieval-Augmented Generation (RAG)
+- Gemini API Integration
+- Fast Document Search
+- User-Friendly Interface
 
 ## Tech Stack
 
 - Python
-- Streamlit
 - LangChain
-- FAISS
 - Google Gemini API
+- FAISS
+- Streamlit
+- PyPDF
 
-## Project Status
+## Project Structure
 
-🚧 Under Development
+Analytics-GPT-AI-Assistance/
+
+├── backend/
+
+├── frontend/
+
+├── docs/
+
+├── images/
+
+├── app.py
+
+├── requirements.txt
+
+└── README.md
+
+## Future Improvements
+
+- User Authentication
+- Multi-PDF Support
+- Chat History
+- Voice Input
+- Cloud Deployment (AWS)
 
 ## Author
 
-Barige Mohammed Sadiq Khan
+**Barige Mohammed Sadiq Khan**
+
+B.Tech Computer Science Engineering
+
+Interested in AI, Cloud Computing, Python, and Generative AI.
